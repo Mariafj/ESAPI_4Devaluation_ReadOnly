@@ -23,7 +23,6 @@
 // ESAPI 4D evaluation script
 // Developed at the Danish Centre for Particle Therapy by medical physicist Maria Fuglsang Jensen
 // The script can be used to:
-// Automatical recalculation of a proton, IMRT or VMAT plan on all phases of a 4D
 // Perform a simple evaluation on plans calculated on all phases of a 4D
 // Export of DVHs from the main plan and phase plans.
 // The script is still under development.Each clinic must perform their own quality assurance of script.
